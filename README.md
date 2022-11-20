@@ -13,6 +13,11 @@
 
 ## 🛠 &nbsp;Studying Progress
 
+- HTML
+- CSS
+- JavaScript
+- Node.JS
+- React.JS
 
 ## 📞 Contact
 
