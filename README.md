@@ -44,6 +44,10 @@
 -->
 ## 📞 Contact
 
+</a>
+  <a href="https://t.me/edmatoss" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=telegram" alt="instagram"/>
+</a>
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/Edisss" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -56,7 +60,7 @@
 </a>
 <a href="https://www.instagram.com/edison_matoss/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
 
 <br>
   
