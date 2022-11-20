@@ -56,10 +56,12 @@
 <a href="https://www.instagram.com/edison_matoss/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<br><br>
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edisonmatos33&layout=wide&show_reply=off&show_retweet=off" />
+
   
 <!--
+<br><br>
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edisonmatos33&layout=wide&show_reply=off&show_retweet=off" />
+
 
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
