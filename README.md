@@ -10,6 +10,7 @@
 - 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
+<br>
 
 ## 🛠 &nbsp; Full Stack Studying Progress
 
@@ -23,6 +24,8 @@ Back End:
 - SQL (soon)
 - Node.js (soon)
 - MongoDB (soon)
+
+<br>
 
 ## 📞 Contact
 
