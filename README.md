@@ -8,7 +8,7 @@
 
 - 🔥 Web and Mobile Developer Student.
 
-- 🔭 I’m currently studying on [OneBitCode](https://onebitcode.com/lp/).
+- 🔭 I’m currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 
 - 💬 Talk to me about **JavaScript, HTML, CSS (so far) **.
 
