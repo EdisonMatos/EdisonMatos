@@ -21,9 +21,6 @@
   <a href="https://t.me/edmatoss" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=telegram" alt="instagram"/>
 </a>
-<a href="https://codepen.io/Edisss" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://twitter.com/edisonmatos33" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
