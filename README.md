@@ -8,41 +8,12 @@
 
 - 🔥 Web and Mobile Developer Student.
 - 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
-- 💬 Talk to me about **JavaScript, HTML, CSS (so far)**.
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
 
 ## 🛠 &nbsp;Studying Progress
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ✔️
-  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ✔️
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ✔️
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ✔️
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; In process...
-
-![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; Soon.
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; Soon.
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; Soon.
-
-![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; Soon.
-
-</div>
-
-<!--
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdisonMatos&show_icons=true&theme=vision-friendly-dark" alt="Edison's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonMatos&layout=compact&theme=vision-friendly-dark" alt="Edison's most languages"/>
-</p>
--->
 ## 📞 Contact
 
 <p align="left" style="background:yellow">
@@ -61,7 +32,6 @@
 </a>
 <a href="https://www.instagram.com/edison_matoss/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=instagram" alt="instagram"/>
-
 
 <br>
   
@@ -82,4 +52,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ✔️
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ✔️
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ✔️
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ✔️
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; In process...
+![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; Soon.
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; Soon.
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; Soon.
+![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; Soon.
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdisonMatos&show_icons=true&theme=vision-friendly-dark" alt="Edison's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonMatos&layout=compact&theme=vision-friendly-dark" alt="Edison's most languages"/>
+</p>
+
 -->
