@@ -11,6 +11,7 @@
 - 💬 Talk to me about **JavaScript, HTML, CSS (so far)**.
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
+
 ## 🛠 &nbsp;Studying Progress
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
@@ -33,7 +34,6 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 🔜
 
-<br>
 
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
@@ -42,8 +42,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonMatos&layout=compact&theme=vision-friendly-dark" alt="Edison's most languages"/>
 </p>
 -->
-
-
 ## 📞 Contact
 
 <p align="left" style="background:yellow">
