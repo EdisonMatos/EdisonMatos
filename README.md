@@ -12,7 +12,7 @@
 
 - 💬 Talk to me about **JavaScript, HTML, CSS (so far) **.
 
-- ⚡ Fun fact: **I was once a Skydiver 🪂**.
+- ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
 - 👨‍💻 Telegram [Here](https://t.me/edmatoss).
 
