@@ -26,13 +26,13 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; In process...
 
-![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; Soon.
-
 ![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; Soon.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; Soon.
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; Soon.
+
+![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; Soon.
 
 </div>
 
