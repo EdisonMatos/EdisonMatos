@@ -41,7 +41,7 @@
 
 <br><br>
 
-## Contact
+## 📞 Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/Edisss" target="_blank">
