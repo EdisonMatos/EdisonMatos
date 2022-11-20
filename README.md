@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 
-- 💬 Talk to me about **JavaScript, HTML, CSS (so far) **.
+- 💬 Talk to me about **JavaScript, HTML, CSS (so far)**.
 
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
