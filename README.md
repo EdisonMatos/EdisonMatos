@@ -30,8 +30,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
 <!--
+## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdisonMatos&show_icons=true&theme=vision-friendly-dark" alt="Edison's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonMatos&layout=compact&theme=vision-friendly-dark" alt="Edison's most languages"/>
