@@ -27,6 +27,8 @@
 
 ![Bulma](https://img.shields.io/badge/-bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; 🔜
 
+![MongoDB](https://img.shields.io/badge/-mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; 🔜
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 🔜
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 🔜
