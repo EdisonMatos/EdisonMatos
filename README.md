@@ -17,6 +17,8 @@
 <div valign="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
+  
+<table><tr><td valign="center"><img ="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"> text </td></tr></table>
 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ✔️
 
