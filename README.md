@@ -22,19 +22,19 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ✔️
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 👨‍💻
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; In process...
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; 👨‍💻
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; In process...
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 👨‍💻
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; In process...
 
-![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; 🔜
+![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; Soon.
 
-![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; 🔜
+![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=flat&logo=mongoDB&logoColor=1572B6)&nbsp; Soon.
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 🔜
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; Soon.
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 🔜
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; Soon.
 
 </div>
 
