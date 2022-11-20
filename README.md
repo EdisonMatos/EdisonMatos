@@ -8,13 +8,13 @@
 
 - 🔥 Web and Mobile Developer Student.
 
-- 🔭 I’m currently studying on [OneBitCode](https://onebitcode.com/lp/)
+- 🔭 I’m currently studying on [OneBitCode](https://onebitcode.com/lp/).
 
-- 💬 Talk to me about **JavaScript, HTML, CSS (so far) **
+- 💬 Talk to me about **JavaScript, HTML, CSS (so far) **.
 
-- ⚡ Fun fact: * Im a former Skydiver 🪂*
+- ⚡ Fun fact: **I was once a Skydiver 🪂**.
 
-- 👨‍💻 Telegram [Here](https://t.me/edmatoss)
+- 👨‍💻 Telegram [Here](https://t.me/edmatoss).
 
 <br><br>
 
