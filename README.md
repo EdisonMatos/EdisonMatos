@@ -13,16 +13,16 @@
 
 ## 🛠 &nbsp;Studying Progress
 
-##Front End:##
-- HTML
-- CSS
-- JavaScript
-- React.js
+Front End:
+- HTML         🟩🟩🟩🟩🟩
+- CSS          🟩🟩🟩   
+- JavaScript   🟩🟩🟩🟩
+- React.js     (soon)
 
-##Back End:##
-- SQL (Sequelize)
-- Node.js
-- MongoDB
+Back End:
+- SQL (soon)
+- Node.js (soon)
+- MongoDB (soon)
 
 ## 📞 Contact
 
