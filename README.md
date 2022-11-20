@@ -15,10 +15,10 @@
 ## 🛠 &nbsp; Full Stack Studying Progress
 
 Front End:
-- HTML        
-- CSS           
-- JavaScript   
-- React.js
+- HTML ✔️
+- CSS ✔️
+- JavaScript 📖
+- React.js (soon)
 
 Back End:
 - SQL (soon)
