@@ -13,7 +13,7 @@
 
 ## 🛠 &nbsp;Studying Progress
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
+[HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ✔️
 
@@ -25,7 +25,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 👨‍💻
 
-"[Bulma](https://img.shields.io/badge/-bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; 🔜
+![Bulma](https://img.shields.io/badge/-bulma-05122A?style=flat&logo=bulma&logoColor=1572B6)&nbsp; 🔜
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 🔜
 
