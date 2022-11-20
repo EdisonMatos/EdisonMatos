@@ -7,7 +7,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Edison Matos!</h1>
 
 - 🔥 Web and Mobile Developer Student.
-- 🔭 I’m currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
+- 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 - 💬 Talk to me about **JavaScript, HTML, CSS (so far)**.
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
