@@ -14,7 +14,7 @@
 
 ## 🛠 &nbsp;Studying Progress
 
-<p valign="center">
+<div valign="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ✔️
 
@@ -36,6 +36,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 🔜
 
+</div>
 
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
