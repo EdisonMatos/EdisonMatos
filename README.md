@@ -5,6 +5,7 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, i'm Edison Matos!</h1>
+(But you can call me Ed!)
 
 - 🔥 Web and Mobile Developer Student.
 - 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
