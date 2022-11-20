@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EdisonMatos
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning JS (DOM, Node.js, Object ORiented Program, React)
+- 🌱 I’m currently learning JavaScript (DOM, Node.js, Object ORiented Program, React.js)
