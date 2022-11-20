@@ -4,7 +4,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdisonMatos/30b0caded5a41fc479dc9faa7e835980/raw/cb8391322b8bc0d528490928ee9a7c6db8a3f287/githubcard.svg"/>
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Edison Matos!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, i'm Edison Matos!</h1>
 
 - 🔥 Web and Mobile Developer Student.
 - 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
@@ -13,13 +13,13 @@
 
 ## 🛠 &nbsp;Studying Progress
 
-##Front End:
+##Front End:##
 - HTML
 - CSS
 - JavaScript
 - React.js
 
-##Back End:
+##Back End:##
 - SQL (Sequelize)
 - Node.js
 - MongoDB
