@@ -11,13 +11,13 @@
 - ⚡ Fun fact: **I'm a former Skydiver 🪂**.
 
 
-## 🛠 &nbsp;Studying Progress
+## 🛠 &nbsp; Full Stack Studying Progress
 
 Front End:
-- HTML         🟩🟩🟩🟩🟩
-- CSS          🟩🟩🟩   
-- JavaScript   🟩🟩🟩🟩
-- React.js     (soon)
+- HTML        
+- CSS           
+- JavaScript   
+- React.js
 
 Back End:
 - SQL (soon)
