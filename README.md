@@ -5,7 +5,7 @@
 
 -->
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edison Matos!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Edison Matos!</h1>
 
 - 🔥 Web and Mobile Developer Student.
 
