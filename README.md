@@ -11,7 +11,7 @@
 - 💻 Web and Mobile Developer Student.
 - 🔭 Studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 - 💬 My main language is Portuguese, but i speak English too.
-- 🪂 Fun fact: **I'm a former Skydiver**.
+- 🪂 Fun fact: **I'm was once a Skydiver**.
 
 <br>
 
