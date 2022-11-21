@@ -24,7 +24,7 @@ Front End:
 <ul><li>HTML ✔️</li>
 <li>CSS ✔️</li>
 <li>JavaScript 📖
-  <li>Teste</li></li>
+  <ul><li>Teste</li></ul></li>
 <li>React.js (soon)</li>
 </ul>
 <br>
