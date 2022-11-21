@@ -1,7 +1,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 -->
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdisonMatos/30b0caded5a41fc479dc9faa7e835980/raw/cb8391322b8bc0d528490928ee9a7c6db8a3f287/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdisonMatos/b80693fe9310ac557ab672bbc85088b0/raw/d479525203d467e5d2d43a41cf54daf3694a1ba9/githubcard.svg"/>
 
 
 <h1 align="left">Hey, how're you doing?! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
