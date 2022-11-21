@@ -20,11 +20,12 @@ Tools:
 - Git ✔️
 <br>
 
-Front End:
-- HTML ✔️
-- CSS ✔️
-- JavaScript 📖
-- React.js (soon)
+<ul>Front End:
+<li>HTML ✔️</li>
+<li>CSS ✔️</li>
+<li>JavaScript 📖</li>
+<li>React.js (soon)</li>
+</ul>
 <br>
 
 Back End:
