@@ -23,11 +23,12 @@ Tools:
 Front End:
 <ul><li>HTML ✔️</li>
 <li>CSS ✔️</li>
-<li>JavaScript 📖
+<li>JavaScript
   <ul>
-    <li>JavaScript ✔️</li>
+    <li>Pure JavaScript ✔️</li>
     <li>DOM ✔️</li>
-    <li>JavaScript Object Oriented Programing</li>
+    <li>JavaScript Object Oriented Programing 📖</li>
+    <li>Modern JavaScript (soon)</>
   </ul></li>
 <li>React.js (soon)</li>
 </ul>
