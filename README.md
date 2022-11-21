@@ -14,6 +14,11 @@
 
 ## 🛠 &nbsp; Full Stack Studying Progress
 
+Tools:
+- Visual Studio Code ✔️
+- GitHub ✔️
+- Git ✔️
+
 Front End:
 - HTML ✔️
 - CSS ✔️
