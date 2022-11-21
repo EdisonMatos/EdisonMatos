@@ -8,7 +8,7 @@
 <h3 align="left">I'm Edison, but you can call me Ed!</h3>
 <br>
 
-- 💻 Web and Mobile Developer Student.
+- 💻 Im a Web and Mobile Developer Student.
 - 🔭 Studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 - 💬 My main language is Portuguese, but i speak English too.
 - 🪂 Fun fact: **i was once a Skydiver**.
