@@ -19,12 +19,14 @@ Tools:
 - GitHub ✔️
 - Git ✔️
 <br>
+
 Front End:
 - HTML ✔️
 - CSS ✔️
 - JavaScript 📖
 - React.js (soon)
 <br>
+
 Back End:
 - SQL (soon)
 - Node.js (soon)
