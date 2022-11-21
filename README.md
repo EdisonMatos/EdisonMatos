@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp; Full Stack Studying Progress
+## 🛠 &nbsp; Studying Progress
 
 Tools:
 - Visual Studio Code ✔️
