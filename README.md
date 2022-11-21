@@ -47,6 +47,9 @@ Back End:
 ## 📞 Contact
 
 <p align="left" style="background:yellow">
+
+<a href="https://www.instagram.com/edison_matoss/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
   <a href="https://t.me/edmatoss" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=telegram" alt="instagram"/>
@@ -57,9 +60,6 @@ Back End:
 <a href="https://www.linkedin.com/in/edison-matoss" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/edison_matoss/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=instagram" alt="instagram"/>
-
 <br>
   
 <!--
