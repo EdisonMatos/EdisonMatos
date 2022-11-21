@@ -24,7 +24,11 @@ Front End:
 <ul><li>HTML ✔️</li>
 <li>CSS ✔️</li>
 <li>JavaScript 📖
-  <ul><li>Teste</li></ul></li>
+  <ul>
+    <li>JavaScript ✔️</li>
+    <li>DOM ✔️</li>
+    <li>JavaScript Object Oriented Programing</li>
+  </ul></li>
 <li>React.js (soon)</li>
 </ul>
 <br>
