@@ -18,18 +18,18 @@ Tools:
 - Visual Studio Code ✔️
 - GitHub ✔️
 - Git ✔️
-
+<br>
 Front End:
 - HTML ✔️
 - CSS ✔️
 - JavaScript 📖
 - React.js (soon)
-
+<br>
 Back End:
 - SQL (soon)
 - Node.js (soon)
 - MongoDB (soon)
-
+<br>
 <br>
 
 ## 📞 Contact
