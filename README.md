@@ -9,7 +9,7 @@
 <br>
 
 - 🧠 Web and Mobile Developer Student.
-- 🔭 Currently studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
+- 🔭 Studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
 - 🪂 Fun fact: **I'm a former Skydiver **.
 
 <br>
