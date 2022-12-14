@@ -17,6 +17,9 @@
 
 ## 🛠 &nbsp; Studying Progress
 
+Concepts:
+- Clean Code ✔️
+
 Tools:
 - Visual Studio Code ✔️
 - GitHub ✔️
