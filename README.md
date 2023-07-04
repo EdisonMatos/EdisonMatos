@@ -19,7 +19,7 @@ Back End Skills:
 - ✔️ Typerscript
 - ✔️ Nest.js (Node.js framework)
 - ✔️ Prisma (ORM)
-- ✔️ Postgres 
+- ✔️ PostgreSQL
 - ✔️ Docker
 - ✔️ Postman / Insomnia
 - ✔️ Unity tests
