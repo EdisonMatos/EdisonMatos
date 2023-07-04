@@ -40,6 +40,7 @@ Soft skills:
 - ✔️ Comunicator
 - ✔️ Leader native
 - ✔️ Advanced English
+- ✔️ Entrepreneurial spirit
 
 <br>
 
