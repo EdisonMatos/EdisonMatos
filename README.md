@@ -8,7 +8,8 @@
 <h3 align="left">I'm Edison, but you can call me Ed.</h3>
 <br>
 
-- 💻 I'm a Backend Developer colaborating developing REST API for Makima AI.
+- 💻 I'm a Backend Developer, focused on NodeJS.
+- 👨‍💻 Currently working developing REST API for Makima AI Team.
 - 💬 My main language is Portuguese, but i speak English too.
 
 <br>
