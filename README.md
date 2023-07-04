@@ -5,7 +5,7 @@
 -->
 
 <h1 align="left">Hey, how're you doing?! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
-<h3 align="left">I'm Edison, but you can call me Ed!</h3>
+<h3 align="left">I'm Edison, but you can call me Ed.</h3>
 <br>
 
 - 💻 I'm a Backend Developer.
