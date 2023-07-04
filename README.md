@@ -13,30 +13,26 @@
 
 <br>
 
-## Studying Progress
+Back End Skills:
+- ✔️ Node.js
+- ✔️ Nest.js (Node framework)
+- ✔️ Postgres
 
 Concepts:
-- Clean Code ✔️
+- ✔️ Clean Code 
 
 Tools:
-- Visual Studio Code ✔️
-- GitHub ✔️
-- Git ✔️
+- ✔️ GitHub 
+- ✔️ Git 
+- ✔️ Postman 
 
 <br>
 
-Front End:
-<ul><li>HTML ✔️</li>
-<li>CSS ✔️</li>
-<li>JavaScript ✔️ </li>
+Front End Skills:
+- ✔️ HTML
+- ✔️ CSS
+- ✔️ JavaScript
 
-<br>
-
-Back End:
-- SQL (soon)
-- Node.js (soon)
-- MongoDB (soon)
-<br>
 <br>
 
 ## Contact
