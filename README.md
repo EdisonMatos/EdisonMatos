@@ -39,6 +39,9 @@ Front End Skills:
 
 <p align="left" style="background:yellow">
 
+<a href="https://www.linkedin.com/in/edison-matoss" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 <a href="https://www.instagram.com/edison_matoss/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
@@ -47,9 +50,6 @@ Front End Skills:
 </a>
 <a href="https://twitter.com/edisonmatos33" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/edison-matoss" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <br>
   
