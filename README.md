@@ -4,7 +4,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EdisonMatos/b80693fe9310ac557ab672bbc85088b0/raw/d479525203d467e5d2d43a41cf54daf3694a1ba9/githubcard.svg"/>
 -->
 
-<h1 align="left">Hey, how're you doing?! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
+<h1 align="left">Hey, how're you doing?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
 <h3 align="left">I'm Edison, but you can call me Ed.</h3>
 <br>
 
