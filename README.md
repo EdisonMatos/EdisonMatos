@@ -13,7 +13,7 @@
 
 <br>
 
-## 🛠 &nbsp; Studying Progress
+## Studying Progress
 
 Concepts:
 - Clean Code ✔️
@@ -39,7 +39,7 @@ Back End:
 <br>
 <br>
 
-## 📞 Contact
+## Contact
 
 <p align="left" style="background:yellow">
 
