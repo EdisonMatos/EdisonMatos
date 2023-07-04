@@ -17,18 +17,16 @@ Back End Skills:
 - ✔️ Node.js
 - ✔️ Nest.js (Node framework)
 - ✔️ Postgres
+- ✔️ Docker
+- ✔️ Postman / Insomnia
 
 <br>
 
-Concepts:
-- ✔️ Clean Code
-
-<br>
-
-Tools:
+Tools, Concepts & Methodology:
+- ✔️ SCRUM
+- ✔️ S.O.L.I.D. Clean Code
 - ✔️ GitHub 
 - ✔️ Git 
-- ✔️ Postman 
 
 <br>
 
