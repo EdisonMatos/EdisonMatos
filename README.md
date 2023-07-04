@@ -8,10 +8,8 @@
 <h3 align="left">I'm Edison, but you can call me Ed!</h3>
 <br>
 
-- 💻 I'm a Web and Mobile Developer Student.
-- 🔭 Studying FullStack JavasScript Professional Course on [OneBitCode](https://onebitcode.com/lp/).
+- 💻 I'm a Backend Developer.
 - 💬 My main language is Portuguese, but i speak English too.
-- 🪂 Fun fact: **i was once a Skydiver**.
 
 <br>
 
@@ -24,20 +22,14 @@ Tools:
 - Visual Studio Code ✔️
 - GitHub ✔️
 - Git ✔️
+
 <br>
 
 Front End:
 <ul><li>HTML ✔️</li>
 <li>CSS ✔️</li>
-<li>JavaScript
-  <ul>
-    <li>Pure JavaScript ✔️</li>
-    <li>DOM ✔️</li>
-    <li>JavaScript Object Oriented Programing 💻</li>
-    <li>Modern JavaScript (soon)</>
-  </ul></li>
-<li>React.js (soon)</li>
-</ul>
+<li>JavaScript ✔️ </li>
+
 <br>
 
 Back End:
