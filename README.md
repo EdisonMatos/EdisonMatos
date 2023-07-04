@@ -37,8 +37,7 @@ Tools, Concepts & Methodology:
 
 Soft skills:
 
-- ✔️ Comunicator
-- ✔️ Leader native
+- ✔️ Teamworker
 - ✔️ Advanced English
 - ✔️ Entrepreneurial spirit
 
