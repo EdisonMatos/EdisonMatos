@@ -10,7 +10,6 @@
 
 - 💻 I'm a Backend Developer.
 - 💬 My main language is Portuguese, but i speak English too.
-- Contact: edison.matos@live.com.
 
 <br>
 
