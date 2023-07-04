@@ -26,10 +26,17 @@ Back End Skills:
 <br>
 
 Tools, Concepts & Methodology:
+
 - ✔️ SCRUM
 - ✔️ S.O.L.I.D. Clean Code
 - ✔️ GitHub 
-- ✔️ Git 
+- ✔️ Git
+
+Sofskills:
+
+- ✔️ Comunicator
+- ✔️ Leadership history
+- ✔️ Advanced English
 
 <br>
 
