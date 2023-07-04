@@ -21,21 +21,21 @@ Back End Skills:
 <br>
 
 Concepts:
--✔️ Clean Code
+- ✔️ Clean Code
 
 <br>
 
 Tools:
--✔️ GitHub 
--✔️ Git 
--✔️ Postman 
+- ✔️ GitHub 
+- ✔️ Git 
+- ✔️ Postman 
 
 <br>
 
 Front End Skills:
--✔️ HTML
--✔️ CSS
--✔️ JavaScript
+- ✔️ HTML
+- ✔️ CSS
+- ✔️ JavaScript
 
 <br>
 
