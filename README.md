@@ -15,7 +15,8 @@
 
 Back End Skills:
 - ✔️ Node.js
-- ✔️ Nest.js (Node framework)
+- ✔️ Typerscript
+- ✔️ Nest.js (Node.js framework)
 - ✔️ Postgres
 - ✔️ Docker
 - ✔️ Postman / Insomnia
