@@ -40,6 +40,8 @@ Front End Skills:
 
 <br>
 
+  
+<!--
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -57,8 +59,7 @@ Front End Skills:
   <img align="center" src="https://img.shields.io/badge/-edisonMatos-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <br>
-  
-<!--
+
 <br><br>
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edisonmatos33&layout=wide&show_reply=off&show_retweet=off" />
 
