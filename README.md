@@ -39,6 +39,7 @@ Soft skills:
 
 - ✔️ Teamworker
 - ✔️ Advanced English
+- ✔️ Public speaker
 - ✔️ Entrepreneurial spirit
 
 <br>
