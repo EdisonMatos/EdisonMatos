@@ -38,9 +38,6 @@ Front End Skills:
 - ✔️ CSS
 - ✔️ JavaScript
 
-<br>
-
-  
 <!--
 ## Contact
 
