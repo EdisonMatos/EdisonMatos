@@ -14,28 +14,28 @@
 <br>
 
 Back End Skills:
-✔️ Node.js
-✔️ Nest.js (Node framework)
-✔️ Postgres
+-✔️ Node.js
+-✔️ Nest.js (Node framework)
+-✔️ Postgres
 
 <br>
 
 Concepts:
-✔️ Clean Code
+-✔️ Clean Code
 
 <br>
 
 Tools:
-✔️ GitHub 
-✔️ Git 
-✔️ Postman 
+-✔️ GitHub 
+-✔️ Git 
+-✔️ Postman 
 
 <br>
 
 Front End Skills:
-✔️ HTML
-✔️ CSS
-✔️ JavaScript
+-✔️ HTML
+-✔️ CSS
+-✔️ JavaScript
 
 <br>
 
