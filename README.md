@@ -14,9 +14,9 @@
 <br>
 
 Back End Skills:
--✔️ Node.js
--✔️ Nest.js (Node framework)
--✔️ Postgres
+- ✔️ Node.js
+- ✔️ Nest.js (Node framework)
+- ✔️ Postgres
 
 <br>
 
