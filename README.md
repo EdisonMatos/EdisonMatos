@@ -33,10 +33,12 @@ Tools, Concepts & Methodology:
 - ✔️ GitHub 
 - ✔️ Git
 
-Sofskills:
+<br>
+
+Soft skills:
 
 - ✔️ Comunicator
-- ✔️ Leadership history
+- ✔️ Leader native
 - ✔️ Advanced English
 
 <br>
