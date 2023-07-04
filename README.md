@@ -8,7 +8,7 @@
 <h3 align="left">I'm Edison, but you can call me Ed.</h3>
 <br>
 
-- 💻 I'm a Backend Developer.
+- 💻 I'm a Backend Developer colaborating developing REST API for Makima AI.
 - 💬 My main language is Portuguese, but i speak English too.
 
 <br>
@@ -28,9 +28,10 @@ Back End Skills:
 Tools, Concepts & Methodology:
 
 - ✔️ SCRUM
+- ✔️ Jira Software
 - ✔️ S.O.L.I.D. Clean Code
-- ✔️ GitHub 
 - ✔️ Git
+- ✔️ Github
 
 <br>
 
