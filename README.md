@@ -10,7 +10,7 @@
 
 - 💻 I'm a Backend Developer, focused on NodeJS.
 - 👨‍💻 Currently working developing REST API for Makima AI Team.
-- 💬 My main language is Portuguese, but i speak English too.
+- 💬 I speak English advanced.
 
 <br>
 
