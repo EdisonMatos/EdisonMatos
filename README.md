@@ -10,7 +10,6 @@
 <br>
 
 - 💻 I'm a Backend Developer, focused on NodeJS.
-- 👨‍💻 Currently working developing REST API for Makima AI Team.
 - 💬 I speak advanced English.
 
 <br>
