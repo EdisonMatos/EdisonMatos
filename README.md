@@ -5,11 +5,11 @@
 -->
 
 <h1 align="left">Oi, como vai?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
-<h3 align="left">Eu sou Edison, desenvolvedor backend focado em NodeJS</h3>
+<h3 align="left">Eu sou Edison, desenvolvedor backend focado em NodeJS.</h3>
 <br>
 
-- 💻 Crio APIs REST em Javascript ou Typescript com ExpressJS e NestJS
-- 💻 Desenvolvo TESTES unitários de todas as partes da API
+- 💻 Crio APIs REST em Javascript ou Typescript com ExpressJS e NestJS.
+- 💻 Desenvolvo TESTES unitários de todas as partes da API.
 - 💻 Documento APIs com Swagger e sei lidar com LOGs.
 - 💻 Faço integração de API com banco de dados relacionais como PostgreSQL, MySQL, SQLite.
 - 💻 Faço validações de requisições.
@@ -19,14 +19,14 @@
 Tools, Concepts & Methodology:
 
 - 💬 Falo inglês avançado
-- ✔️ Conheço a metodologia SCRUM e seus artefatos
+- ✔️ Conheço a metodologia SCRUM e seus artefatos.
 - ✔️ Uso TDD no desenolvimento, o que faz com que toda API minha seja baseada em TESTES.
-- ✔️ Experiência com softwares de trabalho em equipe como Jira Software ou Trello
-- ✔️ Experiência de trabalho em quipe com Git and Github
+- ✔️ Experiência com softwares de trabalho em equipe como Jira Software ou Trello.
+- ✔️ Experiência de trabalho em quipe com Git and Github.
 
 <br>
 
 Front End Skills:
-- ✔️ HTML
-- ✔️ CSS
-- ✔️ JavaScript
+- ✔️ HTML.
+- ✔️ CSS.
+- ✔️ JavaScript.
