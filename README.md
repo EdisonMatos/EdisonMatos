@@ -12,7 +12,7 @@
 - 💻 Crio APIs REST em Javascript ou Typescript com ExpressJS e NestJS.
 - 💻 Desenvolvo TESTES unitários de todas as partes da API.
 - 💻 Documento APIs com Swagger e sei tratar LOGs.
-- 💻 Faço integração de API com banco de dados relacionais como PostgreSQL, MySQL, SQLite.
+- 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB.
 - 💻 Faço validações de requisições.
 
 <br>
