@@ -13,7 +13,6 @@
 - 💻 Desenvolvo TESTES unitários de todas as partes da API.
 - 💻 Documento APIs com Swagger e sei tratar LOGs.
 - 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB.
-- 💻 Faço validações de requisições.
 
 <br>
 
@@ -27,7 +26,8 @@ Ferramentas, conceitos e metodologias:
 
 <br>
 
-Front End Skills:
+Conhecimento básico em frontend:
 - ✔️ HTML.
 - ✔️ CSS.
 - ✔️ JavaScript.
+- ✔️ React.
