@@ -19,7 +19,7 @@
 
 Ferramentas, conceitos e metodologias:
 
-- 💬 Falo inglês avançado
+- 💬 Falo inglês avançado.
 - ✔️ Conheço a metodologia SCRUM e seus artefatos.
 - ✔️ Uso TDD no desenolvimento, o que faz com que toda API minha seja baseada em TESTES.
 - ✔️ Experiência com softwares de trabalho em equipe como Jira Software ou Trello.
