@@ -19,6 +19,7 @@ DevOps:
 - 💻 Crio Pipelines de CI com Github Actions (com testes no processo).
 - 💻 Tenho experiência com deploys de APIs em serverless como Render, Vercel, RailwayApp.
 - 💻 Controle de repositórios com branchs protegidas e com regras.
+- 💻 SonarCloud e Deep Scan para análise de qualidade de código.
 
 <br>
 
