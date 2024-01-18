@@ -24,9 +24,11 @@ DevOps:
 <br>
 
 Conhecimento básico em frontend:
-- ✔️ React com Javascript ou Typescript.
-- ✔️ HTML.
-- ✔️ CSS.
+- ✔️ React
+- ✔️ Javascrpt
+- ✔️ HTML
+- ✔️ CSS
+- ✔️ Figma
 
 <br>
 
