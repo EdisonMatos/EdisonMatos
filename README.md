@@ -29,7 +29,7 @@ Conhecimento básico em frontend:
 - ✔️ Javascrpt
 - ✔️ HTML
 - ✔️ CSS
-- ✔️ Figma
+- ✔️ Figma / Penpot
 
 <br>
 
