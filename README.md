@@ -1,5 +1,5 @@
 <h1 align="left">Oi, como vai?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
-<h3 align="left">Eu sou Edison, desenvolvedor backend focado em NodeJS.</h3>
+<h3 align="left">Eu sou Edison, desenvolvedor Fullstack Javascript.</h3>
 <h3 align="left">Visite meu site pessoal: https://edisonmatos.github.io/</h3>
 Backend:
 
