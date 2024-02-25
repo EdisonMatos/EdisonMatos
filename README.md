@@ -30,6 +30,7 @@ Conhecimento básico em frontend:
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ Figma / Penpot
+- ✔️ UI e UX Design
 
 <br>
 
