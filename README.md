@@ -25,7 +25,7 @@ DevOps:
 
 Conhecimento básico em frontend:
 - ✔️ React
-- ✔️ Tailwind
+- ✔️ Tailwind CSS
 - ✔️ Javascrpt
 - ✔️ HTML
 - ✔️ CSS
