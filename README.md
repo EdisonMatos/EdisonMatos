@@ -8,7 +8,7 @@ Backend:
 - 💻 Crio APIs REST em Javascript ou Typescript com Express e NestJS.
 - 💻 Faço autenticação de usuário com geração de Token Jwt.
 - 💻 Desenvolvo Teste Unitários de todas as partes da API.
-- 💻 Documento APIs com Swagger e sei tratar LOGs.
+- 💻 Documento APIs com Swagger.
 - 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB.
 - 💻 Manuseio Arquiteturas de grande escala como Clean Architecture e MVC (com service layer).
 
