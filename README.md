@@ -16,7 +16,7 @@ ____
 
 [Frontend] Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
-www.edancontabilidade.com.br
+https://www.edancontabilidade.com.br
 
 [Backend e Frontend] Sistema de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
@@ -46,9 +46,9 @@ Frontend:
 DevOps:
 
 - 💻 Pipelines de CI com Github Actions (com testes no processo)
-- 💻 Tenho experiência com deploys de APIs em serverless como Render, Vercel, RailwayApp
+- 💻 Experiência com deploys de APIs em serverless como Render, Vercel, RailwayApp
 - 💻 Controle de repositórios com branchs protegidas e com regras
-- 💻 SonarCloud e Deep Scan para análise de qualidade de código
+- 💻 Uso de ferramentas como SonarCloud e Deep Scan para análise de qualidade de código
 
 Gestão de Projetos:
 
