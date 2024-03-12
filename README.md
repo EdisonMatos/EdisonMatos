@@ -1,6 +1,6 @@
 <h1 align="left">Oi, como vai?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
 
-### Olá! Bem vindo ao meu Github!
+### Bem vindo ao meu Github!
 
 - 🙋🏻‍♂️ Nome: Edison Matos
 - 🖥️ Meu site: https://edisonmatos.github.io/
