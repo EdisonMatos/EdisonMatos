@@ -1,44 +1,61 @@
 <h1 align="left">Oi, como vai?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
-<h3 align="left">Eu sou Edison, desenvolvedor Fullstack Javascript.</h3>
-<h3 align="left">Visite meu site pessoal: https://edisonmatos.github.io/</h3>
+
+### Olá! Bem vindo ao meu Github!
+
+- 🙋🏻‍♂️ Nome: Edison Matos
+- 🖥️ Meu site: https://edisonmatos.github.io/
+- ⚙️ Engenheiro de Software
+- 🎂 Idade: 31 anos
+- 🖥️ Dev Front-End (ReactJs), Dev Back-End (NodeJs) e DevOPs
+- 🏢 Fundador PaperStreet Softwares
+- 🌎 São Bernardo do Campo - Brasil
+___
+
+Últimos projetos entregues:
+
+Backend: 
+
+
 Backend:
 
-<br>
+- 💻 APIs REST em Javascript ou Typescript com Express e NestJS
+- 💻 Autenticação de usuário com geração de Token Jwt
+- 💻 Teste Unitários de todas as partes da API
+- 💻 Documentação de APIs com Swagger
+- 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB
+- 💻 Manuseio Arquiteturas de grande escala como Clean Architecture e MVC (com service layer)
 
-- 💻 Crio APIs REST em Javascript ou Typescript com Express e NestJS.
-- 💻 Faço autenticação de usuário com geração de Token Jwt.
-- 💻 Desenvolvo Teste Unitários de todas as partes da API.
-- 💻 Documento APIs com Swagger.
-- 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB.
-- 💻 Manuseio Arquiteturas de grande escala como Clean Architecture e MVC (com service layer).
+Frontend:
 
-<br>
+- 💻 ReactJS como framework Javascript
+- 💻 TailwindCSS como framework CSS
+- 💻 Conhecimento em UI/UX
+- 💻 Criação de layouts responsivos com Figma
+- 💻 Vite como webpacker e builder pra otimização de desenvolvimento
+- 💻 Desenvolvimento de páginas web dinâmicas e totalmente responsivas
+- 💻 Criação de componentes reutilizáveis em ReactJS
 
 DevOps:
 
-- 💻 Crio Pipelines de CI com Github Actions (com testes no processo).
-- 💻 Tenho experiência com deploys de APIs em serverless como Render, Vercel, RailwayApp.
-- 💻 Controle de repositórios com branchs protegidas e com regras.
-- 💻 SonarCloud e Deep Scan para análise de qualidade de código.
+- 💻 Pipelines de CI com Github Actions (com testes no processo)
+- 💻 Tenho experiência com deploys de APIs em serverless como Render, Vercel, RailwayApp
+- 💻 Controle de repositórios com branchs protegidas e com regras
+- 💻 SonarCloud e Deep Scan para análise de qualidade de código
 
-<br>
+Gestão de Projetos:
 
-Conhecimento básico em frontend:
-- ✔️ React
-- ✔️ Tailwind CSS
-- ✔️ Javascrpt
-- ✔️ HTML
-- ✔️ CSS
-- ✔️ Figma / Penpot
-- ✔️ UI e UX Design
+- 💻 Gerenciamento de equipe de desenvolvimento
+- 💻 Resolução de conflitos de branchs
+- 💻 Revisão de Pull Requests
+- 💻 Uso do Jira Software na gestão de múltiplos projetos de desenvolvimento
+- 💻 Experiência como PO, Scrum Master e Dev Team
+- 💻 Experiência com condução de Daily, Sprint Review, Planning e Retrospective
 
-<br>
+Soft Skills:
 
-Ferramentas, conceitos e metodologias:
+- ✔️ Inglês avançado
+- ✔️ Boa comunicação
+- ✔️ Familiar com mais de um padrão de arquitetura (Clean Architecture, MVC, etc)
+- ✔️ Aplicação de princípios de SOLID durante o desenvolvimento
+- ✔️ Aplicação da metodologia SCRUM e seus artefatos
 
-- 💬 Falo inglês avançado.
-- ✔️ Aplico princípios de SOLID durante o desenvolvimento.
-- ✔️ Conheço a metodologia SCRUM e seus artefatos (já agi como PO, SM e DT).
-- ✔️ Uso TDD no desenolvimento, o que faz com que toda API minha seja baseada em testes.
-- ✔️ Experiência com softwares de trabalho em equipe como Jira Software ou Trello.
-- ✔️ Experiência de gestão de projetos de softwares em quipe com Git e Github.
