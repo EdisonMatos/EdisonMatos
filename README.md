@@ -7,7 +7,6 @@
 - ⚙️ Engenheiro de Software
 - 🎂 Idade: 31 anos
 - 🖥️ Dev Front-End (ReactJs), Dev Back-End (NodeJs) e DevOPs
-- 🏢 Fundador PaperStreet Softwares
 - 🌎 São Bernardo do Campo - Brasil
   
 ____
