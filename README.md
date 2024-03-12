@@ -30,8 +30,8 @@ Backend:
 - 💻 Autenticação de usuário com geração de Token Jwt
 - 💻 Teste Unitários de todas as partes da API
 - 💻 Documentação de APIs com Swagger
-- 💻 Faço integração de API com banco de dados PostgreSQL, MySQL ou MongoDB
-- 💻 Manuseio Arquiteturas de grande escala como Clean Architecture e MVC (com service layer)
+- 💻 Integração de API com banco de dados PostgreSQL, MySQL ou MongoDB usando PrismaORM
+- 💻 Arquiteturas de grande escalabilidade como Clean Architecture e MVC (com service layer)
 
 Frontend:
 
@@ -55,7 +55,7 @@ Gestão de Projetos:
 - 💻 Gerenciamento de equipe de desenvolvimento
 - 💻 Resolução de conflitos de branchs
 - 💻 Revisão de Pull Requests
-- 💻 Uso do Jira Software na gestão de múltiplos projetos de desenvolvimento
+- 💻 Uso do Jira Software na gestão de múltiplos projetos de desenvolvimento (fluxo de trabalho personalizado e configuração de automações)
 - 💻 Experiência como PO, Scrum Master e Dev Team
 - 💻 Experiência com condução de Daily, Sprint Review, Planning e Retrospective
 
