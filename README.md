@@ -9,15 +9,20 @@
 - 🖥️ Dev Front-End (ReactJs), Dev Back-End (NodeJs) e DevOPs
 - 🏢 Fundador PaperStreet Softwares
 - 🌎 São Bernardo do Campo - Brasil
-___
+  
+____
 
 Últimos projetos entregues:
 
 [Frontend] Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
+<br>
 www.edancontabilidade.com.br
 
 [Backend e Frontend] Sistema de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
+<br>
 https://recepcao10.up.railway.app/
+
+____
 
 Backend:
 
