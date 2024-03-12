@@ -7,7 +7,7 @@
 - ⚙️ Engenheiro de Software
 - 🎂 Idade: 31 anos
 - 🖥️ Dev Front-End (ReactJs), Dev Back-End (NodeJs) e DevOPs
-- 🌎 São Bernardo do Campo - Brasil
+- 🌎 São Bernardo do Campo (ABC Paulista) - SP - Brasil
   
 ____
 
