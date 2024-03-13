@@ -1,4 +1,4 @@
-<h1 align="left">Oi, como vai?! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
+<h1 align="left">Oi, como vai?! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px"></h1>
 
 ### Bem vindo ao meu Github!
 
