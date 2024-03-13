@@ -17,7 +17,7 @@ Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCS
 <br>
 https://www.edancontabilidade.com.br
 
-Backend e Frontend - Sistema de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
+Backend e Frontend - Sistema Web de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
 https://recepcao10.up.railway.app/
 
