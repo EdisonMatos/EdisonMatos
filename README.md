@@ -62,6 +62,7 @@ Soft Skills:
 
 - ✔️ Inglês avançado
 - ✔️ Boa comunicação
+- ✔️ Uso Convetional Commits para mensagens de commits bem estruturadas
 - ✔️ Familiar com mais de um padrão de arquitetura (Clean Architecture, MVC, etc)
 - ✔️ Aplicação de princípios de SOLID durante o desenvolvimento
 - ✔️ Aplicação da metodologia SCRUM e seus artefatos
