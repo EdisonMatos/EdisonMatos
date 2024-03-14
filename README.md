@@ -13,11 +13,11 @@ ____
 
 Últimos projetos entregues:
 
-Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
+03/2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
 https://www.edancontabilidade.com.br
 
-Backend e Frontend - Sistema Web de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
+02/2024 - Backend e Frontend - Sistema Web de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
 https://recepcao10.up.railway.app/
 
