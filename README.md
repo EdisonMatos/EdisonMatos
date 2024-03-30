@@ -6,7 +6,7 @@
 - 🖥️ Meu site: https://edisonmatos.github.io/
 - ⚙️ Engenheiro de Software
 - 🎂 Idade: 31 anos
-- 🖥️ Dev Front-End (ReactJs), Dev Back-End (NodeJs) e DevOPs
+- 🖥️ Dev Front-End (ReactJs), Back-End (NodeJs) e DevOPs
 - 🌎 São Bernardo do Campo (ABC Paulista) - SP - Brasil
   
 ____
