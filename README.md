@@ -62,7 +62,7 @@ Soft Skills:
 
 - ✔️ Inglês avançado
 - ✔️ Experiência com gestão de equipes e pessoas
-- ✔️ Uso Convetional Commits para mensagens de commits bem estruturadas
+- ✔️ Convetional Commits para mensagens de commits bem estruturadas
 - ✔️ Familiar com mais de um padrão de arquitetura (Clean Architecture, MVC, etc)
 - ✔️ Aplicação de princípios de SOLID durante o desenvolvimento
 - ✔️ Aplicação da metodologia SCRUM e seus artefatos
