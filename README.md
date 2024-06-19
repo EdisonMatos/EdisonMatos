@@ -15,10 +15,10 @@ ____
 
 2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
-<a target="_blank" href="https://harmonicodonto.com.br/">www.harmonicodonto.com.br</a><br>
+www.harmonicodonto.com.br<br>
 www.paperstreet.com.br<br>
-https://www.mpapiscinas.com.br<br>
-https://www.edancontabilidade.com.br
+www.mpapiscinas.com.br<br>
+www.edancontabilidade.com.br
 
 2024 - Backend e Frontend - Sistema Web de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
