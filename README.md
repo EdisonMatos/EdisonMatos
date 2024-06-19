@@ -15,6 +15,7 @@ ____
 
 2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
+https://www.harmonicodonto.com.br<br>
 https://www.paperstreet.com.br<br>
 https://www.mpapiscinas.com.br<br>
 https://www.edancontabilidade.com.br
