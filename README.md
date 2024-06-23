@@ -5,7 +5,7 @@
 - 🙋🏻‍♂️ Nome: Edison Matos
 - 🖥️ Meu site: https://edisonmatos.github.io/
 - ⚙️ Engenheiro de Software
-- 🎂 Idade: 31 anos
+- 🎂 Idade: 32 anos
 - 🖥️ Dev Front-End (ReactJs), Back-End (NodeJs)
 - 🌎 São Bernardo do Campo (ABC Paulista) - SP - Brasil
   
