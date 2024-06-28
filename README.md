@@ -20,7 +20,7 @@ www.paperstreet.com.br<br>
 www.mpapiscinas.com.br<br>
 www.edancontabilidade.com.br
 
-2024 - Backend e Frontend - Sistema Web de Controle de Visitantes a instituição religiosa com NodeJS e Banco de Dados em MongoDB:
+2024 - Backend e Frontend - Sistema Web de Controle de Visitantes para instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
 https://recepcao10.up.railway.app/
 
