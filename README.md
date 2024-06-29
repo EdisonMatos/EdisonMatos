@@ -11,11 +11,12 @@
   
 ____
 
-Últimos projetos entregues (Junho):
+Últimos projetos entregues:
 
 2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
 www.harmonicodonto.com.br<br>
+www.paperstreet.com.br<br>
 www.mpapiscinas.com.br<br>
 
 2024 - Backend e Frontend - Sistema Web de Controle de Visitantes para instituição religiosa com NodeJS e Banco de Dados em MongoDB:
