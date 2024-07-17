@@ -13,7 +13,7 @@ ____
 
 Últimos projetos entregues:
 
-2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
+2024 - Frontend - Websites institucionais responsivos desenvolvidos com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
 www.localpostapp.com.br<br>
 www.urmseguros.com<br>
