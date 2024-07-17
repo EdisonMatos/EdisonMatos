@@ -15,6 +15,8 @@ ____
 
 2024 - Frontend - Website institucional responsivo desenvolvido com ReactJS, TailwindCSS e desenhado com Figma:
 <br>
+www.localpostapp.com.br<br>
+www.urmseguros.com<br>
 www.harmonicodonto.com.br<br>
 www.paperstreet.com.br<br>
 www.mpapiscinas.com.br<br>
