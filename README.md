@@ -13,10 +13,12 @@ ____
 
 Últimos projetos entregues:
 
-2024 - Frontend - Websites institucionais responsivos desenvolvidos com ReactJS, TailwindCSS e desenhados com Figma:
+2024 - Frontend - Websites institucionais e landing pages responsivas desenvolvidas com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
 www.arraialmelhorsooceu.com.br/<br>
 www.gleidsonprudencio.com.br<br>
+www.infopanattacasino.com<br>
+www.promos-brpanattacasino.com<br>
 www.localpostapp.com.br<br>
 www.urmseguros.com<br>
 www.harmonicodonto.com.br<br>
