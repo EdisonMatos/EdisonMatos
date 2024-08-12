@@ -15,6 +15,7 @@ ____
 
 2024 - Frontend - Websites institucionais responsivos desenvolvidos com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
+www.arraialmelhorsooceu.com.br/<br>
 www.gleidsonprudencio.com.br<br>
 www.localpostapp.com.br<br>
 www.urmseguros.com<br>
