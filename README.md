@@ -16,7 +16,7 @@ ____
 2024 - Frontend - Websites institucionais e landing pages responsivas desenvolvidas com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
 www.faraonico.site</br>
-www.arraialmelhorsooceu.com.br/<br>
+www.arraialmelhorsooceu.com.br<br>
 www.gleidsonprudencio.com.br<br>
 www.infopanattacasino.com<br>
 www.promos-brpanattacasino.com<br>
