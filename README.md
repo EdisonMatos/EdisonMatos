@@ -24,7 +24,7 @@ www.localpostapp.com.br<br>
 www.urmseguros.com.br<br>
 www.harmonicodonto.com.br<br>
 www.paperstreet.com.br<br>
-www.drwildsonsajr.com.br<br>
+www.drwildsonsa.com.br<br>
 www.mpapiscinas.com.br<br>
 www.edancontabilidade.com.br<br>
 
