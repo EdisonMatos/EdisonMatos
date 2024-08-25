@@ -16,7 +16,6 @@ ____
 2024 - Frontend - Websites institucionais e landing pages responsivas desenvolvidas com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
 <br>
-www.spinolaefilgueira.com.br</br>
 www.viniciusvictoradv.com.br</br>
 www.faraonico.site</br>
 www.arraialmelhorsooceu.com.br<br>
@@ -24,6 +23,7 @@ www.gleidsonprudencio.com.br<br>
 www.infopanattacasino.com<br>
 www.promos-brpanattacasino.com<br>
 www.localpostapp.com.br<br>
+www.spinolaefilgueira.com.br</br>
 www.urmseguros.com.br<br>
 www.harmonicodonto.com.br<br>
 www.paperstreet.com.br<br>
