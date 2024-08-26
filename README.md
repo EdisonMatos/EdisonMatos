@@ -44,7 +44,7 @@ Frontend:
 - 💻 ReactJS como framework Javascript
 - 💻 TailwindCSS como framework CSS
 - 💻 Conhecimento em UI/UX
-- 💻 Conhecimento em Google PageSpeed (otimização de SEO)
+- 💻 Conhecimento em Google PageSpeed (otimização de SEO) e Google Search Console (indexação de páginas no Google)
 - 💻 Experiência como Webmaster (Hospedagenm, domínio, transf. de Dns, emails, CDN)
 - 💻 Criação de layouts responsivos com Figma
 - 💻 Vite como webpacker e builder pra otimização de desenvolvimento
