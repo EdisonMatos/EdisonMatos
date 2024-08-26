@@ -45,6 +45,7 @@ Frontend:
 - 💻 TailwindCSS como framework CSS
 - 💻 Conhecimento em UI/UX
 - 💻 Conhecimento em Google PageSpeed (otimização de SEO)
+- 💻 Experiência como Webmaster (Hospedagenm, domínio, transf. de Dns, emails, CDN)
 - 💻 Criação de layouts responsivos com Figma
 - 💻 Vite como webpacker e builder pra otimização de desenvolvimento
 - 💻 Desenvolvimento de páginas web dinâmicas e totalmente responsivas
