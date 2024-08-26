@@ -39,6 +39,17 @@ https://recepcao10.up.railway.app/
 
 ____
 
+Frontend:
+
+- 💻 ReactJS como framework Javascript
+- 💻 TailwindCSS como framework CSS
+- 💻 Conhecimento em UI/UX
+- 💻 Conhecimento em Google PageSpeed (otimização de SEO)
+- 💻 Criação de layouts responsivos com Figma
+- 💻 Vite como webpacker e builder pra otimização de desenvolvimento
+- 💻 Desenvolvimento de páginas web dinâmicas e totalmente responsivas
+- 💻 Criação de componentes reutilizáveis em ReactJS
+
 Backend:
 
 - 💻 APIs REST em Javascript ou Typescript com Express e NestJS
@@ -47,16 +58,6 @@ Backend:
 - 💻 Documentação de APIs com Swagger
 - 💻 Integração de API com banco de dados PostgreSQL, MySQL ou MongoDB usando PrismaORM
 - 💻 Arquiteturas de grande escalabilidade como Clean Architecture e MVC (com service layer)
-
-Frontend:
-
-- 💻 ReactJS como framework Javascript
-- 💻 TailwindCSS como framework CSS
-- 💻 Conhecimento em UI/UX
-- 💻 Criação de layouts responsivos com Figma
-- 💻 Vite como webpacker e builder pra otimização de desenvolvimento
-- 💻 Desenvolvimento de páginas web dinâmicas e totalmente responsivas
-- 💻 Criação de componentes reutilizáveis em ReactJS
 
 DevOps:
 
