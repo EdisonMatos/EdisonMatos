@@ -11,7 +11,7 @@
   
 ____
 
-Últimos projetos entregues:
+Últimos projetos entregues
 
 2024 - Frontend - Websites institucionais e landing pages responsivas desenvolvidas com ReactJS, TailwindCSS e desenhados com Figma:
 <br>
