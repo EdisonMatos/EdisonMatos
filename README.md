@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu perfil no Github!
 
-- 🙋🏻‍♂️ Meu nome: Edison Matos.
+- 🙋🏻‍♂️ Nome: Edison Matos.
 - 🖥️ Meu site: https://edisonmatos.github.io/
 - ⚙️ Engenheiro de Software
 - 🎂 Idade: 32 anos
