@@ -32,8 +32,6 @@ www.drwildsonsa.com.br<br>
 www.mpapiscinas.com.br<br>
 www.julianoaleixoadvocacia.com.br<br>
 www.edancontabilidade.com.br<br>
-http://wellingtonalmeidaadv.com.br
-
 <!--
 2024 - Backend e Frontend - Sistema Web de Controle de Visitantes para instituição religiosa com NodeJS e Banco de Dados em MongoDB:
 <br>
