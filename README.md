@@ -71,7 +71,6 @@ DevOps:
 Gestão de Projetos:
 
 - 💻 Gerenciamento de equipe de desenvolvimento
-- 💻 Resolução de conflitos de branchs
 - 💻 Revisão de Pull Requests
 - 💻 Uso do Jira Software na gestão de múltiplos projetos de desenvolvimento (fluxo de trabalho personalizado e configuração de automações)
 - 💻 Experiência como PO, Scrum Master e Dev Team
