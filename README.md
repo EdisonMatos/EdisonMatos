@@ -18,7 +18,6 @@ ____
 <br>
 www.agmelhorespassagens.com.br</br>
 www.viniciusvictoradv.com.br</br>
-www.faraonico.site</br>
 www.arraialmelhorsooceu.com.br<br>
 www.gleidsonprudencio.com.br<br>
 www.promos-brpanattacasino.com<br>
