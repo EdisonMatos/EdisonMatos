@@ -23,7 +23,6 @@ www.gleidsonprudencio.com.br<br>
 www.promos-brpanattacasino.com<br>
 www.localpostapp.com.br<br>
 www.spinolaefilgueira.com.br</br>
-www.urmseguros.com.br<br>
 www.harmonicodonto.com.br<br>
 www.paperstreet.com.br<br>
 www.drwildsonsa.com.br<br>
