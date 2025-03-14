@@ -11,33 +11,6 @@
   
 ____
 
-Últimos projetos entregues
-
-2024 - Frontend - Websites institucionais e landing pages responsivas desenvolvidas com ReactJS, TailwindCSS e desenhados com Figma:
-<br>
-<br>
-www.agmelhorespassagens.com.br</br>
-www.viniciusvictoradv.com.br</br>
-www.arraialmelhorsooceu.com.br<br>
-www.gleidsonprudencio.com.br<br>
-www.promos-brpanattacasino.com<br>
-www.localpostapp.com.br<br>
-www.spinolaefilgueira.com.br</br>
-www.harmonicodonto.com.br<br>
-www.paperstreet.com.br<br>
-www.mpapiscinas.com.br<br>
-www.julianoaleixoadvocacia.com.br<br>
-www.edancontabilidade.com.br<br>
-www.semenssato.com.br/pensao<br>
-www.descaoplicando.com.br
-<!--
-2024 - Backend e Frontend - Sistema Web de Controle de Visitantes para instituição religiosa com NodeJS e Banco de Dados em MongoDB:
-<br>
-https://recepcao10.up.railway.app/
--->
-
-____
-
 Frontend:
 
 - 💻 ReactJS como framework Javascript
